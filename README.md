@@ -1,3 +1,6 @@
 # ip_localistor
 
-<a<iframe width="560" height="315" src="https://www.youtube.com/embed/RQ2LMvraryc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>a>
+
+#Activer l'autorisation du bot a se connecter a gmail
+
+https://www.youtube.com/watch?v=RQ2LMvraryc
